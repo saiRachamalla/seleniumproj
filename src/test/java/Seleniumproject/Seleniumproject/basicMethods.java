@@ -56,7 +56,7 @@ public class basicMethods {
 		
 		
 		
-		driver.quit();
+		// driver.quit();
 
 	}
 
