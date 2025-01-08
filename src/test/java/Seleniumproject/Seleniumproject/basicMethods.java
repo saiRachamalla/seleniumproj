@@ -23,7 +23,7 @@ public class basicMethods {
 		System.out.println(driver.getCurrentUrl());
 		
 		
-//		WebElement uname=  driver.findElement(By.id("user-name"));
+		WebElement uname=  driver.findElement(By.id("user-name"));
 //		uname.sendKeys("standard_user");	
 //		WebElement pswd=driver.findElement(By.id("password"));
 //		pswd.sendKeys("secret_sauce");	
